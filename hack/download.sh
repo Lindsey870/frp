@@ -1,3 +1,4 @@
+
 #!/bin/sh
 
 OS="$(go env GOOS)"
